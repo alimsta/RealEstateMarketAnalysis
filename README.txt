@@ -1,3 +1,5 @@
+Web App displaying analysis of US real estate markets at the county level against variabls such as crime rate and demographics. Tools Used: AWS RDS, MySQL, Node.js, Express.js, Angular.js, HTML/CSS, Python (pandas)
+
 Please follow the below instruction to run this project.
 - Extract the zip file 
 - Open a new terminal window
